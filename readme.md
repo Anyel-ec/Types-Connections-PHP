@@ -34,7 +34,7 @@ Explain how to run the automated tests for this system.
 
 ## Authors
 
-* **Your Name** - *Initial work* - [Anyel-ec](https://github.com/Anyel-ec/Types-Connections-PHP)
+* **Anyel EC** - *Initial work* - [Anyel-ec](https://github.com/Anyel-ec/Types-Connections-PHP)
 
 ## License
 
